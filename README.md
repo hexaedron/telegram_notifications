@@ -1,2 +1,2 @@
 # telegram_notifications
-Scripts for my Telegram notofication bot
+Scripts for my Telegram notification bot
